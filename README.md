@@ -1,1 +1,1 @@
-# Playing-Chrome-Dino-with-Markov-Decision-Process
+# Playing Chrome Dino with Markov Decision Process
